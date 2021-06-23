@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639252247407",
+    "project_id": "nlw-together-flutter",
+    "storage_bucket": "nlw-together-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639252247407:android:32d0f2ec9999c082f72e9a",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639252247407-e8u4kc64aemvd0qqot7uris0j0pkhk6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "cd809f882e1868f5e5ba41f024d2ed6f0d0b24f6"
+          }
+        },
+        {
+          "client_id": "639252247407-3o138n50o4cvcmfi0halslcsskdmsck3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvNf37SbOvpeIIeygD2NInslgMypNf-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639252247407-3o138n50o4cvcmfi0halslcsskdmsck3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
