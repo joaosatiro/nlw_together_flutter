@@ -13,7 +13,7 @@ class AuthController {
       saveUser(user);
       _user = user;
       _isAuthenticated = true;
-      Navigator.pushReplacementNamed(context, "/home");
+      Navigator.pushReplacementNamed(context, "/home", arguments: user);
     } else {
       _isAuthenticated = false;
       Navigator.pushReplacementNamed(context, "/login");
@@ -36,6 +36,5 @@ class AuthController {
     } else {
       setUser(context, null);
     }
-    
   }
 }
