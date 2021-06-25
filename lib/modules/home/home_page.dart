@@ -12,10 +12,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   final homeController = HomeController();
-  final pages = [
-    Container(color: Colors.red),
-    Container(color: Colors.blue)
-  ];
+  final pages = [Container(color: Colors.red), Container(color: Colors.blue)];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -68,7 +65,8 @@ class _HomePageState extends State<HomePage> {
             ),
             GestureDetector(
               onTap: () {
-                Navigator.pushNamed(context, "/barcode_scanner");
+                // Navigator.pushNamed(context, "/barcode_scanner");
+                Navigator.pushNamed(context, "/insert_boleto");
               },
               child: Container(
                 width: 56,
