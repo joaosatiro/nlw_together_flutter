@@ -33,4 +33,4 @@ Desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenb
 
 ---
 
->Este projeto foi desenvolvido ❤️ por **[@João Sátiro](https://www.linkedin.com/in/jo%C3%A3o-vitor-s%C3%A1tiro-79381013a/)**, com o professor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na semanda #NLW da **[Rocketseat](https://rocketseat.com.br/)**
+>Este projeto foi desenvolvido ❤️ por **[@João Sátiro](https://www.linkedin.com/in/jo%C3%A3o-vitor-s%C3%A1tiro-79381013a/)**, com o professor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na semana #NLW da **[Rocketseat](https://rocketseat.com.br/)**
