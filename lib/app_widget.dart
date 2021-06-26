@@ -39,6 +39,7 @@ class AppWidget extends StatelessWidget {
                   : null,
             ),
       },
+      debugShowCheckedModeBanner: false,
     );
   }
 }
